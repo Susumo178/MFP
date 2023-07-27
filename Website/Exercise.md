@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Paranoia lyrics</title>
 </head>
 <body>
     <h1>Paranoia</h1>
