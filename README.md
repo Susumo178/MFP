@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Main page</title>
 </head>
 <body>
     <a href="Exercise.html"
